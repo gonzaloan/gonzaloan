@@ -10,7 +10,7 @@ Hi, my name is Gonzalo Muñoz, from Chile and i'm a Software Engineer.
 
 ### About me
 - 🔭 **I’m currently working on**: Quvo
-- 🌱 **I’m currently learning** Python / IA
+- 🌱 **I’m currently learning** Python / AWS / Kotlin
 - 💬 **Ask me about** Software Engineering, Java, AWS / GCP, Software Architecture
 - 📫 **How to reach me**: 
 -- gonzaloan.munoz@gmail.com
